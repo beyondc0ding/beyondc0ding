@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi there, I'm Lachezar - a.k.a beyondc0ding 👋</h1> 
 
-<!--
-**beyondc0ding/beyondc0ding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+<!-- ABOUT-ME-POST-LIST:START -->
+<h4>I really love to programming and I do it with a real passion. At the moment I'm studying C# ASP.NET Core MVC in SoftUni, but in the past I've done some projects in PHP with MYSQL.</h4>
+<!-- ABOUT-ME-POST-LIST:END -->
+  
+</br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GITHUB-STATS-POST-LIST:START -->
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyondc0ding&show_icons=true&theme=radical)
+<!-- GITHUB-STATS-POST-LIST:END -->
